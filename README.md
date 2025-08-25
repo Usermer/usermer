@@ -1,54 +1,24 @@
-# 👋 Hi, I’m MERYEM
-
-🎯 *Full-Stack Developer | Machine Learning & Deep Learning Enthusiast | LLM Explorer*  
-
-Welcome to my GitHub!  
-I enjoy building *end-to-end solutions: from designing and training **AI models* to deploying them inside *web or mobile applications*.  
-
----
-
-## 🚀 About Me  
-- 🔬 Passionate about *Machine Learning, Deep Learning, and Large Language Models (LLMs)*  
-- 🌍 Interested in real-world applications of AI: healthcare, education, NLP, and computer vision  
-- 💻 Skilled in *Full-Stack Development* (frontend, backend, APIs, databases)  
+# 💫 Hi , I'm Meryem!
+-👩‍💻I am a 4th year Software Engineering and Artificial Intelligence student at the National School of Applied Sciences (ENSA) of Fez.<br>-✨Passionate about *Machine Learning, Deep Learning, and Large Language Models (LLMs)*  <br>- 🌍 Interested in real-world applications of AI: healthcare, education, NLP, and computer vision  <br>- 💻 Skilled in *Full-Stack Development* (frontend, backend, APIs, databases)  <br>
 
 
-## 🛠 Tech Stack  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kada._.meryem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meryem kada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Meryemkada.249@gmail.com) 
 
-### 🤖 AI & Data Science  
-- *Languages*: Python (main), SQL  
-- *ML/DL*: Scikit-Learn, TensorFlow, Keras, PyTorch  
-- *LLMs & NLP*: Hugging Face 🤗, LangChain, OpenAI API  
-- *Data*: Pandas, NumPy, Matplotlib, Seaborn  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=usermer&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=usermer&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=usermer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 💻 Full-Stack Development  
-- *Frontend*: Angular, React, HTML, CSS, Tailwind  
-- *Backend*: Node.js, Express, Laravel 
-- *Databases*: MySQL, MongoDB  
-- *Tools*: Git/GitHub, Figma, VS Code  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=usermer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=usermer&icon=3&color=10)](https://visitcount.itsvg.in)
 
-## 📂 Featured Projects  
-✨ [Gardenia](#) – Interactive plant encyclopedia
-✨ [Hommie](#) – Pet adoption plateform
-✨ [Medical Appointment](#) – Accessible medical appointment booking platform 🏥  
-✨ [AI Chatbot](#) – Powered by LLMs with LangChain & Hugging Face 💬  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usermer&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usermer&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/meryem-kada-ba9084287?utm_source=share&utm_campaign=share_via&utm_content=profile)  
-- 📫 Email: meryemkada.249@gmail.com
-
----
-
-💡 "I believe in the synergy between AI and Full-Stack Development: understanding models is important, but making them accessible to the world is what truly creates impact."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
