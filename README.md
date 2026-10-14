@@ -1,5 +1,5 @@
 # 💫 Hi , I'm Meryem!
--👩‍💻I am a 4th year Software Engineering and Artificial Intelligence student at the National School of Applied Sciences (ENSA) of Fez.<br>-✨Passionate about *Machine Learning, Deep Learning, and Large Language Models (LLMs)*  <br>- 🌍 Interested in real-world applications of AI: healthcare, education, NLP, and computer vision  <br>- 💻 Skilled in *Full-Stack Development* (frontend, backend, APIs, databases)  <br>
+-👩‍💻I am a 5th year Software Engineering and Artificial Intelligence student at the National School of Applied Sciences (ENSA) of Fez.<br>-✨Passionate about *Machine Learning, Deep Learning, and Large Language Models (LLMs)*  <br>- 🌍 Interested in real-world applications of AI: healthcare, education, NLP, and computer vision  <br>- 💻 Skilled in *Full-Stack Development* (frontend, backend, APIs, databases)  <br>
 
 
 ## 🌐 Socials:
